@@ -18,10 +18,10 @@ After removing leaky features, the accuracy plummeted to roughly 50%, revealing 
 
 Model                        Train     Test
 ---------------------------------------------
-Logistic Regression          0.530    0.491
-KNN                          0.672    0.486
-Decision Tree                0.559    0.491
-Random Forest                0.853    0.468
+Logistic Regression          0.530    0.491\
+KNN                          0.672    0.486\
+Decision Tree                0.559    0.491\
+Random Forest                0.853    0.468\
 SVM                          0.702    0.495
 
 
